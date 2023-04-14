@@ -1,0 +1,1 @@
+DDE (Dynamic Data Exchange) es un protocolo de comunicación que permite a las aplicaciones en sistemas operativos de Microsoft Windows compartir datos en tiempo real. DDE permite a las aplicaciones enviar y recibir información automáticamente entre sí, lo que significa que los datos se actualizan constantemente en tiempo real.
